@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Brief Notes</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="popup.css">
+  <script src="popup.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Brief Notes</h1>
+    <form id="note-form">
+      <input type="text" id="note-title" placeholder="Note title" required>
+      <textarea id="note-content" placeholder="Note content" rows="10" required></textarea>
+      <input type="text" id="note-url" readonly>
+      <button type="submit">Save note</button>
+    </form>
+    <input type="text" id="search-input" placeholder="Find note">
+    <select id="note-dropdown" multiple="12"></select>
+  </div>
+</body>
+</html>
