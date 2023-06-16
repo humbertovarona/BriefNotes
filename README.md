@@ -10,7 +10,7 @@ Extension to take brief notes in Chrome
 
 # Release date
 
-![](https://img.shields.io/badge/Release%20date-May%2C%2003%2C%202023-9cf)
+![](https://img.shields.io/badge/Release%20date-May%2C%2012%2C%202023-9cf)
 
 # License
 
